@@ -77,7 +77,7 @@ The analysis is based on the following files:
 For any queries or suggestions, feel free to reach out!  
 
 📧 Email: kcdilliganesh15@gmail.com
-🔗 LinkedIn: [Your LinkedIn Profile](r"https://www.linkedin.com/in/dilliganesh-k-224a6a20a")  
+🔗 LinkedIn: [Your LinkedIn Profile]("https://www.linkedin.com/in/dilliganesh-k-224a6a20a")  
 
 ---
 
